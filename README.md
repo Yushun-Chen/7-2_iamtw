@@ -16,4 +16,4 @@
   
 ## Q2 臺灣特產
 - 1 臺灣名產標記元員
-[!image](https://github.com/Yushun-Chen/7-2_iamtw/blob/main/%E6%88%AA%E5%9C%96%202023-04-02%20%E4%B8%8A%E5%8D%884.18.59.png)
+[image](https://github.com/Yushun-Chen/7-2_iamtw/blob/main/%E6%88%AA%E5%9C%96%202023-04-02%20%E4%B8%8A%E5%8D%884.18.59.png)
