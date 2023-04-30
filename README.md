@@ -93,3 +93,21 @@
   - 3
     1. 勞資關係不平等：在工業化快速發展的70年代，許多勞工面臨勞資關係不平等的情況。勞工在工作環境中的權益得不到保障，包括薪資待遇、工作時間、工作環境、勞工安全、工會權益等等。因此，勞工開始組織起來，爭取自身權益的保障，例如成立工會、爭取勞資協商權、改善勞工安全、要求提高工資等等。
     2.不合理的勞動條件：隨著工業化的快速發展，勞動條件也開始受到關注。許多勞工長時間工作，每天工作時間超過十小時，且缺乏休息日和假期。此外，許多工廠也缺乏安全措施，勞工的安全無法得到保障。因此，勞工開始組織起來，要求改善勞動條件，例如限制工作時間、要求休息日和假期、改善工作環境、提高勞工安全等等。
+
+## 參考資料
+  - 維基百科. (2023, March 26). 臺灣舊地名列表. Wikipedia. https://zh.wikipedia.org/zh-tw/%E8%87%BA%E7%81%A3%E8%88%8A%E5%9C%B0%E5%90%8D%E5%88%97%E8%A1%A8
+  - 蔡錦堂. (2009, September 24). 皇民化運動. Enyclopedia of Taiwan. https://nrch.culture.tw/twpedia.aspx?id=3803
+  - Kipp. (2009, April 21). 台灣的日本文化. Kipp的部落格. https://kipppan.pixnet.net/blog/post/52283528-%E5%8F%B0%E7%81%A3%E7%9A%84%E6%97%A5%E6%9C%AC%E6%96%87%E5%8C%96
+  - Kiwi. (2017, July 7). 全台必去 10 個日式建築景點！讓你以為人就在日本. DECOmyplace. https://decomyplace.com/n.php?id=5493
+  - 地理資訊科學研究專題中心. 台灣百年歷史地圖. Gissrv4. https://gissrv4.sinica.edu.tw/gis/twhgis/
+  - 今周刊-廣告企劃製作. (2021, July 9). 一窺臺灣　樟腦王國的黃金年代. Business Today. https://www.businesstoday.com.tw/article/category/183027/post/202107080043/
+  - Tony. 重讀高中歷史課本－日治時代的台灣（五）：皇民化、工業化、南進基地與戰時體制. TonyHuang39. http://www.tonyhuang39.com/tony0540/tony0540.html
+  - 翰林雲端學院. 國中歷史 - 南進政策. Ehanlin. https://www.ehanlin.com.tw/app/keyword/%E5%9C%8B%E4%B8%AD/%E6%AD%B7%E5%8F%B2/%E5%8D%97%E9%80%B2%E6%94%BF%E7%AD%96.html
+  - 徐聖凱. (2019). 日治時期臺灣的公共休閒與休閒近代化 The Public Recreation and Modernization of Recreation during the Japanese Colonial Period in Taiwan. DSPACE. http://rportal.lib.ntnu.edu.tw/items/1bea4e10-12b6-49be-ae15-7af6d30ace5e
+  - 劉晏齊. (2020, June). 日治中期臺灣的社會事業（1921-1938）： 定義社會問題、輸送福利與傳遞知識. Ith Academia Sinica. https://www.ith.sinica.edu.tw/quarterly_history_look.php?l=c&id=667&print=print
+  - 維基百科. (2023, April 22). 二二八事件. Wikipedia. https://zh.wikipedia.org/zh-tw/%E4%BA%8C%E4%BA%8C%E5%85%AB%E4%BA%8B%E4%BB%B6
+  - 全國法規資料庫. (1954, December 2). 中華民國與美利堅合眾國間共同防禦條約. Laws & Regulations Database of The Republic of China(Taiwan). https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=y0010095
+## 心得
+  這次的報告是關於「臺灣」這個土地的歷史，夠過這個報告我認識了好多事情。
+  過程中我有一次以為上傳完成就沒有儲存檔案直接關閉程式，下個禮拜開啟檔案時才發現上週的進度沒交到，內容也都不見了！最後只能辛苦的把報告補回來...
+  下次我要更注意才行ww
